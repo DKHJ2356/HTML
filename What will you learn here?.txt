@@ -1,0 +1,21 @@
+Hello, fellow git users. By now, I know that most of you probably know how to make a decent website with HTML, CSS & Javascript.
+So, this one ain't for you rather for newcomers. Those who are new, you should know what is IDE and which IDE is best for which work.
+
+As an example, for web development many prefer Webstorm or Visual Studio, due to their comprehensive feature sets and extensive plugin
+ecosystems. In simple words, there are a lot of features that will help you in your journey to build a decent website maybe even better
+than mine.
+
+But first, you should remember not to compare your website design with others. Like you can see my index.html file and see how ugly it is
+when compared to others. That was when I got back to web developing after learning Java and not learning to program anything :)  .
+
+Now let's go step by step.
+
+1. Install Visual Studio or Webstorm
+
+2. Create a new project ( It's better to clone it from GitHub as it will help you to learn how to use GitHub with other IDE's as well)
+
+3. Build a website ( any kind will do. It does not have to be good just write something or experiment with tags)
+
+4. Try to keep your streak of coding like you can code after a day or after two days. ( Don't try to start to do daily, you may feel tired)
+
+5. Keep learning new things from YouTube course or other peers.
